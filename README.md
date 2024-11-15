@@ -12,6 +12,9 @@
 # Idea de proyecto
 PELISFLIX es una aplicación móvil diseñada para ofrecerte una experiencia cinematográfica única. Te permite explorar una extensa colección de películas populares, acceder a detalles completos de cada título y sumergirte en tu universo cinematográfico favorito. Con PELISFLIX, podrás estar al tanto de los estrenos más recientes, consultar valoraciones, leer sinopsis y ver imágenes de las películas.
 
+## Información de la API 🌐
+
+Para ejecutar la aplicación, necesitarás una clave de API válida de TheMovieDB. Debes registrar tu aplicación en [TheMovieDB](https://www.themoviedb.org/documentation/api) para obtener una clave de API. Una vez que tengas la clave de API, debes reemplazar la variable `API_KEY` en el proyecto por tu clave de API en el archivo   `Constants.kt`. Además, verifica y asegúrate de que los puntos finales de la API en el archivo `MovieService.kt` sean correctos y estén actualizados con la documentación de TheMovieDB.
 
 ## Funcionalidades y Características 
 
