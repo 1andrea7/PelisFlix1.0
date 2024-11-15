@@ -1,11 +1,11 @@
 
-# PELISFLIX <img align="center" height="80" width="80" src="assets/ic_launcher.webp" />
+# PELISFLIX 🍿 
 
-# 1. Idea de proyecto
+# Idea de proyecto
 PELISFLIX es una aplicación móvil diseñada para ofrecerte una experiencia cinematográfica única. Te permite explorar una extensa colección de películas populares, acceder a detalles completos de cada título y sumergirte en tu universo cinematográfico favorito. Con PELISFLIX, podrás estar al tanto de los estrenos más recientes, consultar valoraciones, leer sinopsis y ver imágenes de las películas.
 
 
-## 2. Funcionalidades y Características ✨
+## Funcionalidades y Características 
 
 
 - Descubre una gran variedad de películas populares.
@@ -14,7 +14,7 @@ PELISFLIX es una aplicación móvil diseñada para ofrecerte una experiencia cin
 - Películas populares siempre actualizadas.
 
 
-## 3. Tecnologías Utilizadas 🛠️
+## Tecnologías Utilizadas 
 
 
 - Uso de Kotlin como lenguaje principal para el desarrollo de la aplicación.
@@ -23,8 +23,43 @@ PELISFLIX es una aplicación móvil diseñada para ofrecerte una experiencia cin
 - Utilización de Canva para diseñar componentes de la interfaz de usuario.
 
 
-## 4. Diseño de Interfaz de usuario 🖼️
+## Diseño de Interfaz de usuario 
 
 <div align="center">
 	<img src="assets/pantallazo_movies.jpg" alt="movies" width="200"> <img src="assets/pantallazo_series.jpg" alt="series" width="200"> <img src="assets/pantallazo_actores.jpg" alt="actor" width="200"> 
 </div>
+
+
+
+## Instalación y Uso 
+
+1. Clona o descarga el repositorio en tu máquina local:
+
+   ```shell
+   git clone https://github.com/1andrea7/PelisFlix1.0.git
+   ``` 
+
+2.  Abre el proyecto en Android Studio.
+
+3. Obtén una clave de API válida de TheMovieDB y reemplaza la variable `API_KEY` en el archivo `Constants.kt`.
+
+4. Verifica y actualiza los puntos finales de la API si es necesario en el archivo MovieService.kt. 
+    
+5.  Ejecuta la aplicación en un emulador de Android o dispositivo físico.
+
+
+## Requisitos del Sistema 📔
+
+Para ejecutar la aplicación en un dispositivo Android, debes cumplir con los siguientes requisitos del sistema:
+
+-   Dispositivo Android con sistema operativo Android 5.0 (Lollipop) o superior.
+-   Conexión a Internet para cargar datos de pelicuas desde la API.
+-   Se recomienda un dispositivo con al menos 2 GB de RAM para un rendimiento óptimo.
+
+
+  **API Utilizada**
+
+| Nombre         | Descripción                                                   | API Url                       |
+|----------------|---------------------------------------------------------------|-------------------------------|
+| TheMovieDB API | Una API que proporciona información sobre peliculas y series. | https://api.themoviedb.org/3/ |
+
