@@ -1,7 +1,7 @@
 # Poster y presentacion:
 
 <div align="center">
-	<img src="assets/poster promocional.jpg" alt="movies" width="`200"> 
+	<img src="assets/poster promocional.jpg" alt="movies" width="400"> 
 </div>
 
 
