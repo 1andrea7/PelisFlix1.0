@@ -4,9 +4,9 @@
     <color name="md_theme_light_primary">#FD8700</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_primaryContainer">#FFD9E4</color>
-    <color name="md_theme_light_primaryContainerTransparent">#A5FD8700</color>
+    <color name="md_theme_light_primaryContainerTransparent">#B5FD8700</color>
     <color name="md_theme_light_onPrimaryContainer">#3E0021</color>
-    <color name="md_theme_light_secondary">#D8872A</color>
+    <color name="md_theme_light_secondary">#784A9A</color>
     <color name="md_theme_light_onSecondary">#FFFFFF</color>
     <color name="md_theme_light_secondaryContainer">#F3DAFF</color>
     <color name="md_theme_light_onSecondaryContainer">#2E004D</color>
@@ -36,10 +36,10 @@
     <color name="md_theme_dark_onPrimary">#FD8700</color>
     <color name="md_theme_dark_primaryContainer">#FD8700</color>
     <color name="md_theme_dark_primaryContainerTransparent">#A5FD8700</color>
-    <color name="md_theme_dark_onPrimaryContainer">#D8872A</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFD9E4</color>
     <color name="md_theme_dark_secondary">#E2B6FF</color>
     <color name="md_theme_dark_onSecondary">#FD8700</color>
-    <color name="md_theme_dark_secondaryContainer">#D8872A</color>
+    <color name="md_theme_dark_secondaryContainer">#FD8700</color>
     <color name="md_theme_dark_onSecondaryContainer">#F3DAFF</color>
     <color name="md_theme_dark_tertiary">#FDBC00</color>
     <color name="md_theme_dark_onTertiary">#402D00</color>
@@ -48,7 +48,7 @@
     <color name="md_theme_dark_error">#FFB4AB</color>
     <color name="md_theme_dark_errorContainer">#93000A</color>
     <color name="md_theme_dark_onError">#690005</color>
-    <color name="md_theme_dark_onErrorContainer">#D8872A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
     <color name="md_theme_dark_background">#001F25</color>
     <color name="md_theme_dark_onBackground">#A6EEFF</color>
     <color name="md_theme_dark_surface">#001F25</color>
@@ -58,7 +58,7 @@
     <color name="md_theme_dark_outline">#9D8C91</color>
     <color name="md_theme_dark_inverseOnSurface">#001F25</color>
     <color name="md_theme_dark_inverseSurface">#A6EEFF</color>
-    <color name="md_theme_dark_inversePrimary">#D8872A</color>
+    <color name="md_theme_dark_inversePrimary">#974066</color>
     <color name="md_theme_dark_shadow">#000000</color>
     <color name="md_theme_dark_surfaceTint">#FD8700</color>
     <color name="md_theme_dark_outlineVariant">#514347</color>
