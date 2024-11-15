@@ -26,5 +26,5 @@ PELISFLIX es una aplicación móvil diseñada para ofrecerte una experiencia cin
 ## 4. Diseño de Interfaz de usuario 🖼️
 
 <div align="center">
-	<img src="assets/movies_screen.png" alt="movies" width="200"> <img src="assets/series_screen.png" alt="series" width="200"> <img src="assets/people_screen.png" alt="people" width="200"> 
+	<img src="assets/pantallazo_movies.jpg" alt="movies" width="200"> <img src="assets/pantallazo_series.jpg" alt="series" width="200"> <img src="assets/pantallazo_actores.jpg" alt="actor" width="200"> 
 </div>
